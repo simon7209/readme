@@ -1,1 +1,0 @@
-Study git program
